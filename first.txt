@@ -1,6 +1,3 @@
-Ÿau
-nazdar  
-co je  
-bug 
+nazdar
 conflict  
-conflict2222  
+conflict2222
