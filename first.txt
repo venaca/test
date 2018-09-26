@@ -2,3 +2,5 @@
 nazdar  
 co je  
 bug 
+conflict  
+conflict2222  
